@@ -228,7 +228,7 @@ const UiCtrl = (function () {
             document.querySelector(UiSelectors.currRoundNumber).textContent = `Round ${gameData.currRound}`;
             document.querySelector(UiSelectors.currPlayer).textContent = `${gameData.playerNames[gameData.currPlayerIndex]}`;
             document.querySelector(UiSelectors.question).innerHTML = gameData.sectionData[0].word;
-            document.querySelector(UiSelectors.answerBody).innerHTML = gameData.sectionData[0].translation;
+            document.querySelector(UiSelectors.answerBody).innerHTML = `Translation: ${wordObject.translation}, Occurences: ${wordObject.occurences}`;
 
             // set the avaiable slots to the data
             for (let i = 0; i < gameData.numPlayers; i++) {
