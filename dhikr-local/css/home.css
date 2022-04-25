@@ -1,0 +1,16 @@
+
+#new-game{
+    display: none;
+}
+
+#game-play{
+    display: none;
+}
+
+#answer-body{
+    display: none;
+}
+
+#game-over{
+    display: none;
+}

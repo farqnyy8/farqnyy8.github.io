@@ -1,0 +1,130 @@
+[
+    {
+        "word": "قُلْ",
+        "translation": "Say",
+        "occurences": ["112:1", "113:1", "114:1"]
+    },
+    { "word": "هُوَ", "translation": "He", "occurences": ["112:1"] },
+    {
+        "word": "ٱللَّهُ",
+        "translation": "(is) Allah",
+        "occurences": ["112:1", "112:2"]
+    },
+    { "word": "أَحَدٌ", "translation": "the One", "occurences": ["112:1"] },
+    {
+        "word": "ٱلصَّمَدُ",
+        "translation": "the Eternal, the Absolute",
+        "occurences": ["112:2"]
+    },
+    { "word": "لَمْ", "translation": "Not", "occurences": ["112:3"] },
+    { "word": "يَلِدْ", "translation": "He begets", "occurences": ["112:3"] },
+    {
+        "word": "وَلَمْ",
+        "translation": "and not",
+        "occurences": ["112:3", "112:4"]
+    },
+    {
+        "word": "يُولَدْ",
+        "translation": "He is begotten",
+        "occurences": ["112:3"]
+    },
+    { "word": "يَكُن", "translation": "is", "occurences": ["112:4"] },
+    { "word": "لَّهُۥ", "translation": "for Him", "occurences": ["112:4"] },
+    { "word": "كُفُوًا", "translation": "equivalent", "occurences": ["112:4"] },
+    { "word": "أَحَدٌۢ", "translation": "any [one]", "occurences": ["112:4"] },
+    {
+        "word": "أَعُوذُ",
+        "translation": "I seek refuge",
+        "occurences": ["113:1", "114:1"]
+    },
+    {
+        "word": "بِرَبِّ",
+        "translation": "in (the) Lord",
+        "occurences": ["113:1", "114:1"]
+    },
+    {
+        "word": "ٱلْفَلَقِ",
+        "translation": "(of) the dawn",
+        "occurences": ["113:1"]
+    },
+    { "word": "مِن", "translation": "From", "occurences": ["113:2", "114:4"] },
+    {
+        "word": "شَرِّ",
+        "translation": "(the) evil",
+        "occurences": ["113:2", "113:3", "113:4", "113:5", "114:4"]
+    },
+    { "word": "مَا", "translation": "(of) what", "occurences": ["113:2"] },
+    { "word": "خَلَقَ", "translation": "He created", "occurences": ["113:2"] },
+    {
+        "word": "وَمِن",
+        "translation": "And from",
+        "occurences": ["113:3", "113:4", "113:5"]
+    },
+    {
+        "word": "غَاسِقٍ",
+        "translation": "(of) darkness",
+        "occurences": ["113:3"]
+    },
+    {
+        "word": "إِذَا",
+        "translation": "when",
+        "occurences": ["113:3", "113:5"]
+    },
+    { "word": "وَقَبَ", "translation": "it spreads", "occurences": ["113:3"] },
+    {
+        "word": "ٱلنَّفَّـٰثَـٰتِ",
+        "translation": "(of) the blowers",
+        "occurences": ["113:4"]
+    },
+    { "word": "فِى", "translation": "in", "occurences": ["113:4", "114:5"] },
+    {
+        "word": "ٱلْعُقَدِ",
+        "translation": "the knots",
+        "occurences": ["113:4"]
+    },
+    {
+        "word": "حَاسِدٍ",
+        "translation": "(of) an envier",
+        "occurences": ["113:5"]
+    },
+    { "word": "حَسَدَ", "translation": "he envies", "occurences": ["113:5"] },
+    {
+        "word": "ٱلنَّاسِ",
+        "translation": "(of) mankind",
+        "occurences": ["114:1", "114:2", "114:3", "114:5"]
+    },
+    { "word": "مَلِكِ", "translation": "(The) King", "occurences": ["114:2"] },
+    { "word": "إِلَـٰهِ", "translation": "(The) God", "occurences": ["114:3"] },
+    {
+        "word": "ٱلْوَسْوَاسِ",
+        "translation": "(of) the whisperer",
+        "occurences": ["114:4"]
+    },
+    {
+        "word": "ٱلْخَنَّاسِ",
+        "translation": "the one who withdraws",
+        "occurences": ["114:4"]
+    },
+    {
+        "word": "ٱلَّذِى",
+        "translation": "The one who",
+        "occurences": ["114:5"]
+    },
+    {
+        "word": "يُوَسْوِسُ",
+        "translation": "whispers",
+        "occurences": ["114:5"]
+    },
+    {
+        "word": "صُدُورِ",
+        "translation": "(the) breasts",
+        "occurences": ["114:5"]
+    },
+    { "word": "مِنَ", "translation": "From", "occurences": ["114:6"] },
+    {
+        "word": "ٱلْجِنَّةِ",
+        "translation": "the jinn",
+        "occurences": ["114:6"]
+    },
+    { "word": "وَٱلنَّاسِ", "translation": "and men", "occurences": ["114:6"] }
+]

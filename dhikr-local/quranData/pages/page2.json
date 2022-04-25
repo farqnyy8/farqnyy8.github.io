@@ -1,0 +1,103 @@
+[
+    { "word": "الٓمٓ", "translation": "Alif Laam Meem", "occurences": ["2:1"] },
+    { "word": "ذَٰلِكَ", "translation": "That", "occurences": ["2:2"] },
+    {
+        "word": "ٱلْكِتَـٰبُ",
+        "translation": "(is) the book",
+        "occurences": ["2:2"]
+    },
+    { "word": "لَا", "translation": "no", "occurences": ["2:2"] },
+    { "word": "رَيْبَ ۛ", "translation": "doubt", "occurences": ["2:2"] },
+    { "word": "فِيهِ ۛ", "translation": "in it", "occurences": ["2:2"] },
+    {
+        "word": "هُدًۭى",
+        "translation": "a Guidance",
+        "occurences": ["2:2", "2:5"]
+    },
+    {
+        "word": "لِّلْمُتَّقِينَ",
+        "translation": "for the God-conscious",
+        "occurences": ["2:2"]
+    },
+    { "word": "ٱلَّذِينَ", "translation": "Those who", "occurences": ["2:3"] },
+    {
+        "word": "يُؤْمِنُونَ",
+        "translation": "believe",
+        "occurences": ["2:3", "2:4"]
+    },
+    {
+        "word": "بِٱلْغَيْبِ",
+        "translation": "in the unseen",
+        "occurences": ["2:3"]
+    },
+    {
+        "word": "وَيُقِيمُونَ",
+        "translation": "and establish",
+        "occurences": ["2:3"]
+    },
+    {
+        "word": "ٱلصَّلَوٰةَ",
+        "translation": "the prayer",
+        "occurences": ["2:3"]
+    },
+    {
+        "word": "وَمِمَّا",
+        "translation": "and out of what",
+        "occurences": ["2:3"]
+    },
+    {
+        "word": "رَزَقْنَـٰهُمْ",
+        "translation": "We have provided them",
+        "occurences": ["2:3"]
+    },
+    {
+        "word": "يُنفِقُونَ",
+        "translation": "they spend",
+        "occurences": ["2:3"]
+    },
+    {
+        "word": "وَٱلَّذِينَ",
+        "translation": "And those who",
+        "occurences": ["2:4"]
+    },
+    { "word": "بِمَآ", "translation": "in what", "occurences": ["2:4"] },
+    {
+        "word": "أُنزِلَ",
+        "translation": "(is) sent down",
+        "occurences": ["2:4", "2:4"]
+    },
+    { "word": "إِلَيْكَ", "translation": "to you", "occurences": ["2:4"] },
+    { "word": "وَمَآ", "translation": "and what", "occurences": ["2:4"] },
+    { "word": "مِن", "translation": "from", "occurences": ["2:4"] },
+    { "word": "قَبْلِكَ", "translation": "before you", "occurences": ["2:4"] },
+    {
+        "word": "وَبِٱلْـَٔاخِرَةِ",
+        "translation": "and in the Hereafter",
+        "occurences": ["2:4"]
+    },
+    { "word": "هُمْ", "translation": "they", "occurences": ["2:4"] },
+    {
+        "word": "يُوقِنُونَ",
+        "translation": "firmly believe",
+        "occurences": ["2:4"]
+    },
+    { "word": "أُو۟لَـٰٓئِكَ", "translation": "Those", "occurences": ["2:5"] },
+    { "word": "عَلَىٰ", "translation": "(are) on", "occurences": ["2:5"] },
+    { "word": "مِّن", "translation": "from", "occurences": ["2:5"] },
+    {
+        "word": "رَّبِّهِمْ ۖ",
+        "translation": "their Lord",
+        "occurences": ["2:5"]
+    },
+    {
+        "word": "وَأُو۟لَـٰٓئِكَ",
+        "translation": "and those ",
+        "occurences": ["2:5"]
+    },
+    { "word": "هُمُ", "translation": "they", "occurences": ["2:5"] },
+    {
+        "word": "ٱلْمُفْلِحُونَ",
+        "translation": "(are) the successful ones",
+        "occurences": ["2:5"]
+    }
+]
