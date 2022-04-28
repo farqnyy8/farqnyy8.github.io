@@ -227,8 +227,8 @@ const UiCtrl = (function () {
 
             document.querySelector(UiSelectors.currRoundNumber).textContent = `Round ${gameData.currRound}`;
             document.querySelector(UiSelectors.currPlayer).textContent = `${gameData.playerNames[gameData.currPlayerIndex]}`;
-            document.querySelector(UiSelectors.question).innerHTML = gameData.sectionData[0].word;
-            document.querySelector(UiSelectors.answerBody).innerHTML = `Translation: ${gameData.sectionData[0].translation}, Occurences: ${gameData.sectionData[0].occurences}`;
+            document.querySelector(UiSelectors.question).innerHTML = gameData.sectionData[gameData.wordIndex].word;
+            document.querySelector(UiSelectors.answerBody).innerHTML = `Translation: ${gameData.sectionData[gameData.wordIndex].translation}, Occurences: ${gameData.sectionData[gameData.wordIndex].occurences}`;
 
             // set the avaiable slots to the data
             for (let i = 0; i < gameData.numPlayers; i++) {
@@ -420,6 +420,9 @@ const App = (function (GameCtrl, UiCtrl, StorageCtrl, QuranDataCtrl) {
         // reset the data to the original
         GameCtrl.restartGame();
 
+        // save data in case of refresh
+        StorageCtrl.storeGameDataToStorage(GameCtrl.getGameData());
+
         // set game play data
         UiCtrl.setGamePlayData(GameCtrl.getGameData());
 
@@ -464,6 +467,9 @@ const App = (function (GameCtrl, UiCtrl, StorageCtrl, QuranDataCtrl) {
 
         // move to next player
         GameCtrl.moveToNextPlayer();
+
+        // should I store befpre every new player round? yep
+        StorageCtrl.storeGameDataToStorage(GameCtrl.getGameData());
 
         // resume gameplay
         gamePlay();
